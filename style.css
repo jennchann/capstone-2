@@ -87,13 +87,9 @@ hr{
     height: 200px;
 }
 
-.copyright{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-
 .copyright p{
+    position: absolute;
+    left: 47%;
     margin: 90px auto 0 auto;
     font-size: 20px;
 }
