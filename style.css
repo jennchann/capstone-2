@@ -60,7 +60,7 @@ p{
 
 .container-3{
     background-color: #c7a8dc;
-    height: 20vh;
+    height: 10vh;
     margin: 100px auto 0 auto;
 }
 
@@ -90,7 +90,7 @@ hr{
 .copyright p{
     position: absolute;
     left: 47%;
-    margin: 90px auto 0 auto;
+    margin: 35px auto 0 auto;
     font-size: 20px;
 }
 
